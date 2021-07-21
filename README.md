@@ -1,4 +1,4 @@
-# Color Detection using Python  
+# Color Detection using Python: [nbviewer](https://nbviewer.jupyter.org/github/SuhruthY/GRIP_Task5/blob/master/color_detection.ipynb) 
  
 ## Overview 
 &emsp;The task aims to detect colors of a given image by the user. I have use Python cv2 module, numpy, pyplot from matplotlib and sklearn to do the job. 
